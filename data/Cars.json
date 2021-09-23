@@ -1,0 +1,74 @@
+[
+    {
+      "id": "1",
+      "title": "Toyota Prado",
+      "price":"MWK65,000",
+      "Seats":"7",
+      "Engine":"Diesel",
+      "img": "toyota_prado_TX.png"
+    },
+    {
+      "id": "2",
+      "title": "Fortuner",
+      "price":"MK80,000",
+      "Seats":"7",
+      "Engine":"Diesel",
+      "img": "fortuner.png"
+    },
+    {
+      "id": "3",
+      "title": "Toyota Hillux",
+      "price":"MWK70,000",
+      "Seats":"5",
+      "Engine":"Diesel",
+      "img": "hillux.png"
+    },
+    {
+      "id": "4",
+      "title": "Rav 4",
+      "price":"MWK85,000",
+      "Seats":"5",
+      "Engine":"Petrol",
+      "img": "rav4.png"
+    },
+    {
+        "id": "5",
+        "title": "Quantum",
+        "price":"MWK90,000",
+        "Seats":"16",
+        "Engine":"Petrol",
+        "img": "quantum.png"
+      },
+      {
+        "id": "6",
+        "title": "Nissan Patrol",
+        "price":"MWK90,000",
+        "Seats":"7",
+        "Engine":"Diesel",
+        "img": "patrol.png"
+      },
+      {
+        "id": "7",
+        "title": "Foton Micro Bus",
+        "price":"MWK100,000",
+        "Seats":"16",
+        "Engine":"Petrol",
+        "img": "micro_bus.png"
+      },
+      {
+        "id": "8",
+        "title": "Toyota Vitz",
+        "price":"MWK35,000",
+        "Seats":"5",
+        "Engine":"Petrol",
+        "img": "vitz.png"
+      },
+      {
+        "id": "9",
+        "title": "Mazda Demio",
+        "price":"MWK40,000",
+        "Seats":"5",
+        "Engine":"Petrol",
+        "img": "demio.png"
+      }
+  ]

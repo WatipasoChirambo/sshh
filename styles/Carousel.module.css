@@ -1,0 +1,42 @@
+.carousel{
+    display:grid;
+    grid-template-columns:0.5fr 0.5fr 0.5fr;
+    text-align:center;
+}
+.carousel>button{
+    background-color:orange;
+}
+.container{
+    margin-top:5%;
+    margin-bottom:5%;
+}
+.unset_img{
+    width: 100%;
+  }
+  .unset_img>div{
+    position: unset !important;
+  }
+  .custom_img{
+    object-fit: contain;
+    width: 100% !important;
+    position: relative !important;
+    height: unset !important;
+  }
+  @media only screen and (max-width: 600px) {
+    .carousel{
+      display:block;
+  }
+  }
+  
+  @media only screen and (max-width: 428px) {
+    .carousel{
+      display:block;
+  }
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (max-width: 768px) {
+    .carousel{
+      display:block;
+  }
+  }

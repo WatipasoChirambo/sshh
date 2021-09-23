@@ -1,0 +1,9 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.wrapper>div>h4{
+    color: #FEA501;
+    text-align: center;
+    margin-bottom: 5%;
+}

@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url("/veggies.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:400px;
+}
+.text{
+    margin-top:60px;
+    margin-left:60px;
+    color:white;
+}

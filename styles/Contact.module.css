@@ -1,0 +1,23 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+}
+@media only screen and (max-width: 600px) {
+    .wrapper{
+        display: block;
+    }
+  }
+  
+  @media only screen and (max-width: 428px) {
+    .wrapper{
+        display: block;
+    }
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (max-width: 768px) {
+    .wrapper{
+        display: block;
+    }
+  }

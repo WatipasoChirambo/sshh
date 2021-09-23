@@ -1,0 +1,56 @@
+.container{
+    display: grid;
+    grid-template-rows: 2% 2% 2% 2%;
+    gap: 4%;
+    max-width: fit-content;
+    background-color: white;
+    border: none;
+    border-radius: 3%;
+    padding: 10%;
+}
+.container>h4{
+    max-width: fit-content;
+    border: none;
+    border-radius: 3%;
+    padding: 10%;
+}
+.container>div>h4{
+    color: #FEA501;
+    text-decoration: underline;
+    margin-bottom: 5%;
+}
+.field{
+    display: grid;
+    grid-template-rows:0.5fr;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.field>label{
+    color: white;
+}
+
+.message_field{
+    margin-top: 5%;
+    max-width: auto;
+}
+.field>label{
+    text-align: left;
+}
+.btn{
+    text-align: center;
+    
+}
+.btn:hover{
+    
+}
+.btn>input{
+    border: 1px solid #FEA501;
+    background-color: white;
+    color: #FEA501;
+    padding: 2%;
+}
+.btn>input:hover{
+    border: 1px solid #FEA501;
+    color: white;
+    background-color: #FEA501;
+}
